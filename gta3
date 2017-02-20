@@ -1,0 +1,186 @@
+BDATA_V1
+==---- Bingo Data 1st version format
+
+Input data after commas.
+The syntax for objectives is: 15 characters COMMA 78 charachters.
+
+For example: "Kill 15 peds,Kill 15 pedestrians using any means necessary"
+Game Name and Author texts should be pretty obvious.
+every file MUST start with BDATA_V1 and include GAMENAME & AUTHOR & VERSION & OBJECTIVES_START & OBJECTIVES_END
+Avoid using , in the data lines like plaque as it is a line termination charachter.
+
+
+
+ID YOU ARE TOO SCARED TO EDIT THE DATA THEN DROP THE SUGGESTIONS AT THE BOTTOM AND OASIZ OR SOMEONE ELSE WILL INPUT IT PROPERLY
+
+EIDGOD: Check that you didn't have any commas in the middle of desc and it can't be too long either.
+
+==--
+GAMENAME,Grand Theft Auto III
+AUTHOR,oasiz/adam/#gta
+VERSION,2
+
+OBJECTIVES_START
+Mr. Whoopee    , Park a Mr. Whoopee in any of the safehouse garages
+
+Tank Time      , Steal a tank and leave it at a safehouse
+Great Escape   , Get a 4* wanted level at SSV safehouse and get to the portland safehouse
+Dodo Disciple  , Do a Portland mission using a Dodo
+Pilot to Trust , Give Misty a ride to Joey's with the dodo
+Extra Stuff    , Do all of Luigi's and Joey's missions
+Overpowered    , Obtain an M16 before unlocking the second island
+Stall Smasher  , Complete Espresso 2 Go without using any weapons
+RIP in Peaches , Kill Catalina
+Boat S.A.M.    , Do S.A.M. the intended way
+
+
+20 Packages    , Collect 20 hidden packages
+40 Packages    , Collect 40 hidden packages
+60 Packages    , Collect 60 hidden packages
+80 Packages    , Collect 80 hidden packages
+100 Packages   , Collect 100 hidden packages
+5 Rampages     , Complete 5 rampages 
+10 Rampages    , Complete 10 rampages
+15 Rampages    , Complete 15 rampages
+20 Rampages    , Complete 20 rampages
+5 Stunt Jumps  , Complete 5 Unique Stunt Jumps
+10 Stunt Jumps , Complete 10 Unique Stunt Jumps
+15 Stunt Jumps , Complete 15 Unique Stunt Jumps
+20 Stunt Jumps , Complete 20 Unique Stunt Jumps
+Fly Stunt      , Fly over a unique stunt slow motion trigger with a Dodo
+Nice House     , Fly to Kenji's house and walk around it
+
+
+
+
+2 Toyz         , Complete 2 Different Toyz challenges
+4 Toyz         , Complete 4 Different Toyz challenges
+
+Vigilante    3 , Unlock 3 bribe stars without using the escape glitch
+Vigilante    6 , Unlock 6 bribe stars without using the escape glitch
+Paramedic    6 , Complete Paramedic level 6
+Paramedic   12 , Complete Paramedic level 12
+Firefighter  1 , Extinguish 20 fires on any one island without using the replay glitch
+Firefighter  2 , Extinguish 20 fires on any two islands without using the replay glitch
+Firefighter  3 , Extinguish 20 fires on each island without using the replay glitch
+15 fares       , Do 15 fares during Taxi Driver without glitching
+33 fares       , Do 33 fares during Taxi Driver without glitching
+67 fares       , Do 67 fares during Taxi Driver without glitching
+Taxi Driver    , Complete Taxi Driver without glitching
+
+
+
+Big N Veiny    , Complete 'Big N Veiny'
+Suicide Men    , Complete 'Kingdom Come'
+Luigi          , Complete 'The Fuzz Ball'
+
+GTA            , Complete 'Grand Theft Auto'
+Skunk          , Complete 'Dead Skunk In The Trunk'
+Wheelman       , Complete 'Two-Faced Tanner' without using guns
+
+
+Kenji          , Complete 'Smack Down'
+Ray Machowski  , Complete 'Marked Man'
+Rigged to Blow , Complete 'Rigged To Blow'
+Escort         , Complete 'Escort Service'
+Joey Leone     , Complete 'The Getaway'
+
+Bitch'n Dog    , Complete all of 'Marty Chonks (Bitch'n' Dog Food)' payphone missions
+
+GrandTheftAero , Complete 'Grand Theft Aero'
+Evidence Dash  , Complete 'Evidence Dash'
+All out of Love, Watch the cutscene for 'Love's Disappearence'
+BBS            , Complete 'Bling Bling Scramble'
+The Exchange   , Complete 'The Exchange'
+Bang Bang      , Complete "Turismo" AFTER "Sayonara Salvatore"
+
+
+
+Hit N Run      , Kill Kenji using a Cartel Cruiser on WGW without using an RPG
+Chase The Boat , Chase The guy on "PapaRazi Purge" With a Speeder
+Maria VIP      , Drive Maria around Portland during "Chaperone"
+Easy Ride      , Drive a Manana Around Saint Marks after Killing Salvatore for 3 minutes
+Pick up the Bat, Kill the dealer on "Dont SPANK Ma Bitch Up" with the bat
+Dump Maria     , Take Maria to the Harwood crusher during "The Chaperone"
+AfraidOfHeights, DRIVE the Dodo back from Grand Theft Aero - don't fly it
+Spooky Scary   , Follow Curly Bob's taxi to the harbor on "Cutting the Grass"
+Over the Fence , Enter Cartel compound without using a Cartel Cruiser on "Liberator"
+Blowing Time   , Complete a mission using a car bomb (I Scream... and Mike Lips... excluded)
+Spare the Mob  , Don't kill any Mafia guards during "Sayonara Salvatore"
+Pacifist Ship  , Complete "Bomb da Base: Part II" without killing any Colombians
+Yolo Marked Man, Take the bridge on "Marked Man"
+Hippocrites    , Use an Ambulance to kill Leon McAffrey on "Plaster Blaster"
+Hoe Showoff    , Take Misty to Joey's on foot on "Drive Misty For Me"
+
+
+Enforcer Saver , Put a Enforcer in your garage
+Rhino Saver    , Put a Rhino in your garage without rampage
+Ghost Missing  , Drive the Ghost Missing boat around Portland
+FBI Kuruma     , Put an FBI Kuruma in your garage
+Manana FTW     , Fill all the garages with Mananas (more than 5 in Staunton & Shoreside)
+Barracks OL    , Put a Barracks OL in your garage
+Cheetah OP     , Put a Cheetah from "Turismo" in your garage
+Dead Man(ana)  , Put a Manana from "Dead Skunk in the Trunk" in your garage
+Car Collector  , Deliver all emergency vehicles to the Emergency Vehicles crane in Portland
+VanHeist Act II, Deliver 5 Securicars to the Van Heist garage
+Secure All Cars, Deliver 10 Securicars to the Van Heist garage
+For a Rhiny Day, Push the Rhino from "Arms Shortage" into your garage
+Timed Swag     , Put a BF Injection in your garage
+
+
+$2.500.000     , Have at least $2.500.000 at the end of the run
+$5.000.000     , Have at least $5.000.000 at the end of the run
+$20.000.000    , Have at least $20.000.000 at the end of the run
+$30.000.000    , Have at least $30.000.000 at the end of the run
+
+Hike SM > RF   , Walk from Salvatore's Mansion to Rockford Hospital
+Hike CM > RD   , Walk from Catalina's Mansion to the Red Light District safehouse
+Hike RD > CM   , Walk from the Red Light District safehouse to Catalina's Mansion
+Dodo Roundabout, Fly around all of Liberty in a Dodo and land back at Francis INTL
+Ghost Town     , Fly to the Ghost Town 
+Ugly Car Disp. , Destroy the Banshee in Capital Autos in Harwood without using weapons.
+Burn           , Acquire a flamethrower
+Bribe away 6*  , Lose a 6* wanted level just by picking up cop bribes
+Bribe away 5*  , Lose a 5* wanted level just by picking up cop bribes
+Bribe away 4*  , Lose a 4* wanted level just by picking up cop bribes
+Get Laid       , Get laid and have your health go to 125
+FiretrkVSPolice, Smash head on into 16 police cars with a firetruck
+Broken Wings   , Don't fly the Dodo
+Budget Driver  , Dont drive Banshee&(Yak.)Stinger&Infernus&Cheetah unless forced by mission
+Fuck and Dump  , Don't enter the same car twice unless forced by mission
+Reverse Dodo   , Drive a Dodo from Shoreside to Portland through tunnels
+Flipstalker    , Roll a Landstalker 10 times without exiting it
+Big Cojones    , Punch an Army Soldier to death
+Subway%        , Travel between islands only using subway trains
+
+Gripped!       , Complete Gripped!
+PtriotPlaygrnd , Complete Patriot Playground
+MultiStorey Mhm, Complete Multistory Mayhem
+RideInThePark  , Complete A Ride In The Park
+
+Never Save     , Never save, not even to advance time.
+Never Load     , Never load; saving to advance time is allowed.
+Safe > Sorry   , Save the game after completing each mission.
+
+Hot Tonight    , Stop movement and listen to entire "I'm Hot Tonight" on Flashback
+Joyride        , Stop movement and listen to entire "Grand Theft Auto" by Da Shootaz on Lips106
+She's On Fire  , Stop movement and listen to entire "She's On Fire" on Flashback
+Stripe Summer  , Stop movement and listen to entire "Stripe Summer" on Head Radio
+Wakey Wakey    , Stop movement and listen to entire "Shiver by Deep Time" on RiseFM
+
+
+
+
+OBJECTIVES_END
+
+After this point things get ignored, go home!
+----
+               ,                                                                              |<=-behind line
+
+
+SUGGESTIONS HERE ! (or input them above yourself)
+
+
+
+
+

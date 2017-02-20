@@ -1,0 +1,243 @@
+BDATA_V1
+==---- Bingo Data 1st version format
+ 
+Input data after commas.
+The syntax for objectives is: 15 charachters COMMA 78 charachters.
+ 
+For example: "Kill 15 peds,Kill 15 pedestrians using any means necessary"
+Game Name and Author texts should be pretty obvious.
+every file MUST start with BDATA_V1 and include GAMENAME & AUTHOR & VERSION & OBJECTIVES_START & OBJECTIVES_END
+Avoid using , in the data lines like plaque as it is a line termination charachter.
+ 
+ 
+ 
+ID YOU ARE TOO SCARED TO EDIT THE DATA THEN DROP THE SUGGESTIONS AT THE BOTTOM AND OASIZ OR S WILL INPUT IT PROPERLY
+SORTING BY TRIPLE LINE BREAKS:
+collectables
+non map-marked side missions
+map-marked (side) missions
+missions with a restriction
+everything safehouse or asset related
+misc random stuff
+ 
+Please keep the goals doable without glitches
+ 
+Probably need to establish some concrete rules for less vagueness. Here's some I can think of:
+If your game crashes after finishing an objective it will still count as completed and you don't have to redo.
+If your game crashes during an objective (eg. while collecting packages) you must start over. So if you collected 14 out of 20 packages, then crash, you must collect those 14 packages again, rather than just the remaining 6. (I think, people please confirm this rule) -- I agree
+Also you aren't allowed to reset the game to do objectives you lock yourself out (like mhmd did to do Drive Misty for me with a dodo), unless you reset your whole bingo card.
+ 
+==--
+GAMENAME,Grand Theft Auto: Vice City
+AUTHOR,oasiz & lotsofs & #gta
+VERSION,3
+ 
+OBJECTIVES_START
+20 packages    , Collect 20 hidden packages
+40 packages    , Collect 40 hidden packages
+60 packages    , Collect 60 hidden packages
+80 packages    , Collect 80 hidden packages
+100 packages   , Collect 100 hidden packages
+8 Rampages     , Complete 8 rampages
+15 Rampages    , Complete 15 rampages
+25 Rampages    , Complete 25 rampages
+35 Rampages    , Complete 35 rampages
+KatanaRampages , Complete both Katana rampages
+8 Stunt Jumps  , Complete 8 Unique Stunt Jumps
+16 Stunt Jumps , Complete 16 Unique Stunt Jumps
+26 Stunt Jumps , Complete 26 Unique Stunt Jumps
+31 Stunt Jumps , Complete 31 Unique Stunt Jumps
+36 Stunt Jumps , Complete 36 Unique Stunt Jumps
+8 Robberies    , Rob 8 different stores
+15 Robberies   , Rob all 15 stores
+ 
+ 
+ 
+1 Chopper CP   , Complete 1 Different Chopper Checkpoints
+2 Chopper CPs  , Complete 2 Different Chopper Checkpoints
+3 Chopper CPs  , Complete 3 Different Chopper Checkpoints
+4 Chopper CPs  , Complete 4 Different Chopper Checkpoints
+Test & Trial   , Complete Test Track and Trial By Dirt
+Test Track     , Complete Test Track
+PCJ Playground , Complete PCJ Playground
+Hotring        , Complete the Hotring racer stadium event
+Dirtring       , Complete the Dirtring stadium event
+2 Stadium Evnt , Complete 2 different stadium events
+3 Stadium Evnt , Complete 3 different stadium events
+RC Baron race  , Win the RC Baron race
+RC Bandit race , Win the RC Bandit race
+RC Raider Pck  , Complete the RC Raider pickup
+2 Top Fun      , Complete 2 Different Top Fun challenges
+3 Top Fun      , Complete 3 Different Top Fun challenges
+ 
+Vigilante    6 , Complete Vigilante level 6
+Vigilante   12 , Complete Vigilante level 12
+Paramedic    6 , Complete Paramedic level 6
+Paramedic   12 , Complete Paramedic level 12
+Firefighter  6 , Complete Firefighter level 6
+Firefighter 12 , Complete Firefighter level 12
+Pizza boy    5 , Complete Pizza Delivery level 5
+Pizza boy   10 , Complete Pizza Delivery level 10
+15 fares       , Do 15 fares in Taxi Driver
+33 fares       , Do 33 fares in Taxi Driver
+67 fares       , Do 67 fares in Taxi Driver
+Taxi Driver    , Complete Taxi Driver
+ 
+ 
+ 
+Autocide       , Finish 'Autocide'
+CheckOutATCI   , Finish 'Check-out At The Check-in'
+Payphone       , Finish 'Loose Ends'
+ 
+Biker 1        , Finish 'Alloy Wheels of Steel'
+Biker 2        , Finish 'Messing With The Man'
+Bikers         , Finish 'Hog Tied'
+Love Fist      , Finish 'Publicity Tour'
+ 
+Avery 2        , Finish 'Demolition Man'
+AveryCarringtn , Finish 'Two Bit Hit'
+Auntie Poulet  , Finish 'Dirty Lickins'
+Umberto 3      , Finish 'Naval Engagement'
+Umberto Robina , Finish 'Trojan Voodoo'
+ 
+Colonel        , Finish 'All Hands On Deck'
+ 
+Rub Out        , Finish 'Rub Out'
+PhnomPenh'86   , Finish 'Phnom Penh' 86'
+Cortez 3       , Finish 'Guardian Angels'
+CapTheCollectr , Finish 'Cap The Collector'
+Keep Your FC   , Finish 'Keep Your Friends Close'
+ 
+ 
+ 
+SirYsSirMurder , Kill all the soldiers before stealing the 'Sir yes Sir' Tank
+ChaseThePlates , Let the 'Hit the Courier' woman drive off with the car before you kill her
+Mercedes VIP   , Drive Mercedes around North Point Mall in the Stretch's Back Seat (The Party)
+ClassicPercent , Don't take the taxi during Spilling The Beans
+CoupleOfBlocks , Buy a Pistol in North Point Mall with Lance during Guardian Angels.
+No JF Dupe     , Duping 'Jury Fury' isn't allowed
+Backstabber    , Kill Lance 3 times with a screwdriver
+ 
+ 
+ 
+Skumole Shack  , Buy Skumole Shack
+All safeHouse  , Buy all 7 safehouses (excludes the assets)
+All buildings  , Buy all assets and safehouses
+ 
+Do 1 asset     , Complete 1 asset
+Do 3 assets    , Complete 3 DIFFERENT assets
+Do 5 assets    , Complete 5 DIFFERENT assets
+Do 7 assets    , Complete 7 DIFFERENT assets
+Do 9 assets    , Complete all 9 DIFFERENT assets
+ 
+Kaufman Cabs   , Finish 'Cabmageddon'
+Pole Position  , Finish 'Lap Dance'
+Printworks     , Finish 'Hit The Courier'
+Boatyards      , Finish 'Checkpoint Charlie'
+Cop Land       , Finish 'Cop Land'
+ 
+25 icecream    , Sell 25 'Icecream' in a row
+Cherry Poppers , Finish 'Distribution'
+ 
+Filmstudios 4  , Finish 'G-Spotlight'
+Filmstudios 3  , Finish 'Marthas Mug Shot'
+ 
+Malibu Club    , Finish 'The Job'
+Malibu 1       , Finish 'No Escape?'
+Malibu 3       , Finish 'The Driver'
+Shoot Range    , Get 45 points on the Shooting Range
+Phil           , Finish 'Boomshine Saigon'
+ 
+VC Endurance   , Win the V.C. Endurance Race
+3 street races , Win 3 different Vice City streetraces from Sunshine Autos
+4 street races , Win 4 different Vice City streetraces from Sunshine Autos
+6 street races , Win all 6 Vice City streetraces from Sunshine Autos
+1 Export lists , Complete the first of the car Export lists at Sunshine autos
+2 Export lists , Complete the second of the car Export lists at Sunshine autos
+3 Export lists , Complete the third of the car Export lists at Sunshine autos
+4 Export lists , Complete every last one of the car Export lists at Sunshine autos
+Mini Super SSA , Bring every reward car from SSA to the lighthouse
+ 
+ 
+ 
+ 
+Patriot saver  , Put a Patriot in your garage
+Rhino saver    , Put a Rhino in your garage
+Banger saver   , Put a Bloodring Banger in your garage
+FBI Rancher    , Put an FBI Rancher in your garage
+Lucky Walton 7 , Put 7 Waltons in your garage
+Stretchy Candy , Put Candy's Poop Colored Stretch in your garage
+Barracks OL    , Put a Barracks OL in your garage
+ 
+Tankflipper    , Flip a tank so it explodes
+Packer Stunter , Jump over 3 different packers
+ 
+$500.000       , Have at least $500.000 at the end of the run
+$1.000.000     , Have at least $1.000.000 at the end of the run
+$10.000.000    , Have at least $10.000.000 at the end of the run
+$20.000.000    , Have at least $20.000.000 at the end of the run
+Money overflow , Make so much money that it starts counting down
+ 
+Hike LH > PI   , Go from the top of the lighthouse to the tennis court on Prawn Island on foot
+Hike PI > LH   , Go from the tennis court on Prawn Island to the top of the lighthouse on foot
+Hike AP > TT   , Go from the southern end of the airport to the Test Track Landstalker on foot
+Hike TT > AP   , Go from the Test Track Landstalker to the southern end of the airport on foot
+Roundboat trip , Circumvent Vice City by boat
+Ugly car disp. , Destroy the Infernus in North Point Mall without using weapons.
+Malibu Murder  , Kill all dancers and guards in the malibu including upstairs guards.
+Fly a Hunter   , Fly in a hunter
+Minigun is fun , Acquire a minigun
+Landstalkeroll , Do 10 rolls on the ground in a row with a Landstalker.
+Lose 6 stars   , Lose a 6* wanted level with no loading & getting busted & dying
+Bribe away 6*  , Lose a 6* wanted level just by picking up cop bribes
+Bribe away 5*  , Lose a 5* wanted level just by picking up cop bribes
+Bribe away 4*  , Lose a 4* wanted level just by picking up cop bribes
+Get laid       , Get laid and have your health go to 125
+Beachball x25  , Do 25 bounces in a row on the Beach Ball minigame
+FiretrkVSCaddy , Smash headon into 3 golf carts with a firetruck
+Bus Driver     , Make 50 dollars by doing the bus driver minigame
+Bird Buster    , Kill a seagull
+2 Sec 2 Wheel  , Do a Two Wheels Double Bonus for 2 seconds
+15 sec Wheelie , Do a wheelie for 15 seconds
+Nice Pants     , Acquire the Golfer Outfit
+ 
+Never save     , Never save. not even to advance time.
+Never load     , Never load. saving to advance time is allowed.
+No Orange Guns , Don't use Orange guns/Assault Rifles. "Supply & Demand" Rampages etc excluded
+No Yellow Guns , Don't use Yellow guns/Machine Guns. AKA. No Uzi allowed ! Rampages excluded
+No Helicopters , Don't use helicopters except when forced to (Demolition Man etc)
+No Replays     , Don't use replays whatsoever. Not even F1 replays.
+Mission Failer , Fail all missions that you start at least once. (All Missions Definition)
+ClassicControl , Do 5 missions that change the savename using classic controls in the settings
+No Reversing   , Do not put your vehicle in reverse.
+ 
+Gorbatchegg    , Find Mikhail Gorbachev
+Easter Egg     , Find a real Easter Egg
+Bloody Eggs    , Find a bathroom with blood all over and a chainsaw
+So Many Eggs   , Find Mikhail Gorbachev. a real Easter egg. And a bathroom with blood all over
+ 
+Espantoso      , Stop movement and listen to entire "La Vida Es Una Lenteija" on Espantoso.
+Rap Attack     , Stop movement and listen to entire "Magic Wand" by Whodini on Wildstyle.
+Japanese Boy   , Stop movement and listen to entire "Japanese Boy" by Aneka on Flash FM.
+5 cutscenes    , Finish 5 missions without skipping any of their cutscenes.
+ 
+OBJECTIVES_END
+ 
+After this point things get ignored, go home!
+----
+               ,                                                                              |<=-behind line
+ 
+ 
+SUGGESTIONS HERE ! (or input them above yourself)
+ 
+I think this needs more goals that don't require any any% missions (eg. that can be done before An Old Friend is completed).
+ 
+Remove "SirYSir No Prk , Steal the 'Sir yes Sir' Tank without parking a car in front of it" --Changed it a bit
+is rampage glitch allowed for "Minigun is fun , Acquire a minigun" --yes
+ 
+BrawnOfTheDead2, Complete Shakedown using only a Katana  --Is this possible within the timelimit?
+FrameLimiterOff, Turn the frame limiter off then restart from new game --I think this one is too hardware dependent to be good.
+ 
+Removed: 
+LoveJuiceLove  , Dupe 'Love Juice' 3 times        --Needs glitches, not very friendly to casual runners.
+CC cutscenes   , Watch every cut scene from cone crazy's help introduction.    --Not really relevant anymore.
